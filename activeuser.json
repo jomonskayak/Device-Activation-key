@@ -9,7 +9,7 @@
         "device_id": "df5697bbbce08fd8",
         "key": "bodoy12",
         "expirydate": "15-08-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "408d4e2752ce8fd8",
@@ -64,12 +64,12 @@
         "device_id": "2bbbedbff4e3f22d",
         "key": "jomons123",
         "expirydate": "15-08-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "2bbbedbff4e3f22d",
         "key": "jomons12",
         "expirydate": "15-08-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 ]
