@@ -30,8 +30,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "24c3f1cef7bdbdcc",
-        "key": "Mano",
+        "device_id": "32d4703ad9d76e6b",
+        "key": "ahmad",
         "expirydate": "15-08-2035",
         "Allowoffline": false
     },
@@ -55,8 +55,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "32d4703ad9d76e6b",
-        "key": "ahmad",
+        "device_id": "xxxxxx",
+        "key": "",
         "expirydate": "15-08-2035",
         "Allowoffline": false    
     },
